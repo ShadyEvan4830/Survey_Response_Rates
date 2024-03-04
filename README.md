@@ -4,7 +4,7 @@
 
 In the realm of survey research, the quality and integrity of data are critically dependent on achieving high response rates. Recent trends, however, have shown a pervasive decline across various modes of data collection. This shift poses significant challenges for researchers, threatening the reliability and validity of survey findings.
 
-Our paper delves into these challenges, offering an in-depth examination of the factors driving the decline in response rates and the implications for survey-based research. Utilizing the open-source statistical programming language R, alongside powerful library packages such as tidyverse, ggplot2, and dplyr, we explore remedial strategies and interventions grounded in recent scholarly contributions.
+The paper delves into these challenges, offering an in-depth examination of the factors driving the decline in response rates and the implications for survey-based research. Utilizing the open-source statistical programming language R, alongside powerful library packages such as tidyverse, ggplot2, and dplyr, we explore remedial strategies and interventions grounded in recent scholarly contributions.
 
 
 ## File Structure
