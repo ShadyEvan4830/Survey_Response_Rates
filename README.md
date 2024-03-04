@@ -21,4 +21,4 @@ The repo is structured as:
 
 ## Statement on LLM usage
 
-When writing this report, the ChatGPT 4 language model was used to obtain relevant inspiration and suggestions for freewill-related analysis and comparison with the original paper's content.
+When writing this report, the ChatGPT 4 language model was used to obtain relevant inspiration and suggestions for analysis and comparison with the original paper's content.
