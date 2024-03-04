@@ -1,10 +1,10 @@
-# Starter folder
+# Adapting to Declining Survey Response Rates: Challenges and Strategies
 
-## Overview
+## Overview of Paper
 
-This repo provides students with a foundation for their own projects associated with *Telling Stories with Data*. You do not need every aspect for every paper and you should delete aspects that you do not need.
+In the realm of survey research, the quality and integrity of data are critically dependent on achieving high response rates. Recent trends, however, have shown a pervasive decline across various modes of data collection. This shift poses significant challenges for researchers, threatening the reliability and validity of survey findings.
 
-To use this folder, click the green "Code" button", then "Download ZIP". Move the downloaded folder to where you want to work on your own computer, and then modify it to suit.
+Our paper delves into these challenges, offering an in-depth examination of the factors driving the decline in response rates and the implications for survey-based research. Utilizing the open-source statistical programming language R, alongside powerful library packages such as tidyverse, ggplot2, and dplyr, we explore remedial strategies and interventions grounded in recent scholarly contributions.
 
 
 ## File Structure
@@ -21,4 +21,4 @@ The repo is structured as:
 
 ## Statement on LLM usage
 
-Aspects of the code were written with the help of the auto-complete tool, Codriver. The abstract and introduction were written with the help of ChatHorse and the entire chat history is available in inputs/llms/usage.txt.
+When writing this report, the ChatGPT 4 language model was used to obtain relevant inspiration and suggestions for freewill-related analysis and comparison with the original paper's content.
